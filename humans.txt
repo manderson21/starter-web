@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Matthew -- anderson.c.matt@gmail.com -- @matt
 
 # THANKS
 
