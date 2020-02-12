@@ -16,6 +16,6 @@ This is a simple web project, deployment can be on a n web server or even local 
 
 ## how To Contribute
 
-## Copyrigh
+## Copyright
 
 2014 Git.Training.
