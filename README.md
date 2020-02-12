@@ -14,7 +14,9 @@ As stated above, the main purpose is to provide simple exampels for Git training
 
 This is a simple web project, deployment can be on a n web server or even local file system.
 
-## how To Contribute
+## How To Contribute
+
+Please fork this repository and then issue Pull Request for review.
 
 ## Copyright
 
